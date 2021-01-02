@@ -1,2 +1,2 @@
 # ChatForum
-sample chat app using MERN
+An online study app using MERN
